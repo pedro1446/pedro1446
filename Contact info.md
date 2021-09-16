@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pedro1446
+- 🌱 I’m currently learning Microsoft Azure
+- 👀 www.dataklinikka.com
+- 📫 Petri.Hagglund@dataklinikka.com
